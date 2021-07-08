@@ -1,0 +1,17 @@
+Repository/Retrofit/JsonPlaceHolderApi.java
+ Repository.Retrofit.JsonPlaceHolderApi
+Model/Post.java
+ Model.Post
+Main/RetrofitMain.java
+ Main.RetrofitMain
+ Main.RetrofitMain$1
+Repository/FirebaseConfig.java
+ Repository.FirebaseConfig
+Main/Main.java
+ Main.Main
+Main/ExcelFoods.java
+ Main.ExcelFoods
+Spoonacular/Main.java
+ Spoonacular.Main
+Main/FatSecret.java
+ Main.FatSecret
