@@ -1,17 +1,56 @@
-Repository/Retrofit/JsonPlaceHolderApi.java
- Repository.Retrofit.JsonPlaceHolderApi
+platformfatsecret/model/Serving.java
+ platformfatsecret.model.Serving
+platformfatsecret/model/Category.java
+ platformfatsecret.model.Category
+Main/FatSecretRestSearch.java
+ Main.FatSecretRestSearch
 Model/Post.java
  Model.Post
+platformfatsecret/utils/FoodUtility.java
+ platformfatsecret.utils.FoodUtility
 Main/RetrofitMain.java
  Main.RetrofitMain
  Main.RetrofitMain$1
-Repository/FirebaseConfig.java
- Repository.FirebaseConfig
-Main/Main.java
- Main.Main
-Main/ExcelFoods.java
- Main.ExcelFoods
+platformfatsecret/utils/ServingUtility.java
+ platformfatsecret.utils.ServingUtility
 Spoonacular/Main.java
  Spoonacular.Main
-Main/FatSecret.java
- Main.FatSecret
+platformfatsecret/model/CompactRecipe.java
+ platformfatsecret.model.CompactRecipe
+platformfatsecret/services/Response.java
+ platformfatsecret.services.Response
+platformfatsecret/model/CompactFood.java
+ platformfatsecret.model.CompactFood
+platformfatsecret/services/RequestBuilder.java
+ platformfatsecret.services.RequestBuilder
+Main/Main.java
+ Main.Main
+Repository/Retrofit/JsonPlaceHolderApi.java
+ Repository.Retrofit.JsonPlaceHolderApi
+Main/ExcelFoods.java
+ Main.ExcelFoods
+platformfatsecret/model/Recipe.java
+ platformfatsecret.model.Recipe
+Main/FatSecretLibrary.java
+ Main.FatSecretLibrary
+platformfatsecret/services/Base64.java
+ platformfatsecret.services.Base64
+ platformfatsecret.services.Base64$Coder
+ platformfatsecret.services.Base64$Decoder
+ platformfatsecret.services.Base64$Encoder
+platformfatsecret/model/Direction.java
+ platformfatsecret.model.Direction
+platformfatsecret/model/Ingredient.java
+ platformfatsecret.model.Ingredient
+Repository/FirebaseConfig.java
+ Repository.FirebaseConfig
+Main/FatSecretRest.java
+ Main.FatSecretRest
+platformfatsecret/model/Food.java
+ platformfatsecret.model.Food
+platformfatsecret/services/Request.java
+ platformfatsecret.services.Request
+platformfatsecret/utils/RecipeUtility.java
+ platformfatsecret.utils.RecipeUtility
+platformfatsecret/services/FatsecretService.java
+ platformfatsecret.services.FatsecretService
