@@ -12,7 +12,7 @@ public class FatSecretLibrary {
     static FatsecretService service = new FatsecretService(key, secret);
 
     public static void main(String[] args) {
-        gettingRecipes("mie ayam");
+        gettingFoods("mie ayam");
     }
 
     static void gettingFoods(String query){

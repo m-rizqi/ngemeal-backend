@@ -31,8 +31,8 @@ Main/ExcelFoods.java
  Main.ExcelFoods
 platformfatsecret/model/Recipe.java
  platformfatsecret.model.Recipe
-Main/FatSecretLibrary.java
- Main.FatSecretLibrary
+platformfatsecret/services/FatsecretService.java
+ platformfatsecret.services.FatsecretService
 platformfatsecret/services/Base64.java
  platformfatsecret.services.Base64
  platformfatsecret.services.Base64$Coder
@@ -52,5 +52,7 @@ platformfatsecret/services/Request.java
  platformfatsecret.services.Request
 platformfatsecret/utils/RecipeUtility.java
  platformfatsecret.utils.RecipeUtility
-platformfatsecret/services/FatsecretService.java
- platformfatsecret.services.FatsecretService
+Main/FatSecretLibrary.java
+ Main.FatSecretLibrary
+Main/FatSecretToDB.java
+ Main.FatSecretToDB
