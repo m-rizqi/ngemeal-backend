@@ -1,5 +1,5 @@
-platformfatsecret/model/Serving.java
- platformfatsecret.model.Serving
+platformfatsecret/services/Request.java
+ platformfatsecret.services.Request
 platformfatsecret/model/Category.java
  platformfatsecret.model.Category
 Main/FatSecretRestSearch.java
@@ -27,32 +27,32 @@ Main/Main.java
  Main.Main
 Repository/Retrofit/JsonPlaceHolderApi.java
  Repository.Retrofit.JsonPlaceHolderApi
+Repository/FirebaseConfig.java
+ Repository.FirebaseConfig
 Main/ExcelFoods.java
  Main.ExcelFoods
 platformfatsecret/model/Recipe.java
  platformfatsecret.model.Recipe
+platformfatsecret/utils/RecipeUtility.java
+ platformfatsecret.utils.RecipeUtility
+Main/FatSecretLibrary.java
+ Main.FatSecretLibrary
+platformfatsecret/model/Direction.java
+ platformfatsecret.model.Direction
+platformfatsecret/model/Ingredient.java
+ platformfatsecret.model.Ingredient
 platformfatsecret/services/FatsecretService.java
  platformfatsecret.services.FatsecretService
+Main/FatSecretRest.java
+ Main.FatSecretRest
 platformfatsecret/services/Base64.java
  platformfatsecret.services.Base64
  platformfatsecret.services.Base64$Coder
  platformfatsecret.services.Base64$Decoder
  platformfatsecret.services.Base64$Encoder
-platformfatsecret/model/Direction.java
- platformfatsecret.model.Direction
-platformfatsecret/model/Ingredient.java
- platformfatsecret.model.Ingredient
-Repository/FirebaseConfig.java
- Repository.FirebaseConfig
-Main/FatSecretRest.java
- Main.FatSecretRest
 platformfatsecret/model/Food.java
  platformfatsecret.model.Food
-platformfatsecret/services/Request.java
- platformfatsecret.services.Request
-platformfatsecret/utils/RecipeUtility.java
- platformfatsecret.utils.RecipeUtility
-Main/FatSecretLibrary.java
- Main.FatSecretLibrary
+platformfatsecret/model/Serving.java
+ platformfatsecret.model.Serving
 Main/FatSecretToDB.java
  Main.FatSecretToDB

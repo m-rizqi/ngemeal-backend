@@ -128,7 +128,7 @@ public class Request {
 		try {
 			URL url = new URL(apiUrl);
 			URLConnection api = url.openConnection();
-			api.setConnectTimeout(0);
+			api.setConnectTimeout(999999999);
 			String line;
 			StringBuilder builder = new StringBuilder();
 			BufferedReader reader = new BufferedReader(new InputStreamReader(api.getInputStream()));
